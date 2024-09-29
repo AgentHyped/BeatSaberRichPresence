@@ -1,0 +1,13 @@
+{
+    "id": "BeatSaberRichPresence",
+    "name": "Beat Saber Rich Presence",
+    "version": "1.0.0",
+    "author": "AgentHyped",
+    "description": "A plugin that shows Discord Rich Presence for Beat Saber.",
+    "gameVersion": "1.34.2",
+    "loaderVersion": "4.3.2",
+    "dependsOn": {
+        "BSIPA": "^4.3.2",
+        "BeatSaberMarkupLanguage": "^1.8.1"
+    }
+}

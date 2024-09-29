@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNwYPBw5gDk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MacciesPC\\OneDrive\\Documents\\Code\\New folder\\BeatSaberRichPresence\\BeatSaberRichPresence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MacciesPC\\.nuget\\packages\\discordrichpresence\\1.2.1.24\\discordrichpresence.1.2.1.24.nupkg.sha512",
+    "C:\\Users\\MacciesPC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\MacciesPC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
+    "C:\\Users\\MacciesPC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\MacciesPC\OneDrive\Documents\Code\New folder\BeatSaberRichPresence\obj\Debug\net4.6\BeatSaberRichPresence.csproj.AssemblyReference.cache
+C:\Users\MacciesPC\OneDrive\Documents\Code\New folder\BeatSaberRichPresence\obj\Debug\net4.6\BeatSaberRichPresence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MacciesPC\OneDrive\Documents\Code\New folder\BeatSaberRichPresence\obj\Debug\net4.6\BeatSaberRichPresence.AssemblyInfoInputs.cache
+C:\Users\MacciesPC\OneDrive\Documents\Code\New folder\BeatSaberRichPresence\obj\Debug\net4.6\BeatSaberRichPresence.AssemblyInfo.cs
+C:\Users\MacciesPC\OneDrive\Documents\Code\New folder\BeatSaberRichPresence\obj\Debug\net4.6\BeatSaberRichPresence.csproj.CoreCompileInputs.cache
